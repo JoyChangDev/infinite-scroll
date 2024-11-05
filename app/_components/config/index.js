@@ -1,3 +1,3 @@
-import ChakraProvider from "./chakra";
+import ChakraProvider from './chakra';
 
 export { ChakraProvider };
