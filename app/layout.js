@@ -1,4 +1,5 @@
 import localFont from "next/font/local";
+
 import { ChakraProvider } from "@/app/_components/config";
 
 const geistSans = localFont({
