@@ -1,7 +1,7 @@
-"use client";
-import { Center } from "@chakra-ui/react";
+'use client';
+import { Center } from '@chakra-ui/react';
 
-import { PostCard } from "@/app/_components";
+import { PostCard } from '@/app/_components';
 
 export default function Home() {
   return (
